@@ -1,26 +1,36 @@
 # **JavaScript Resources**
 
+JavaScript Contents
+1. [Sites](#sites)
+    1. [Vanilla](#sitesVanilla)
+    2. [Frameworks](#sitesFrameworks)
+2. [Books](#books)
+    1. [Vanilla](#booksVanilla)
+    2. [Frameworks](#booksFrameworks)
+3. [Misc](#misc)
+4. [Questions and Answers](#qNa)
+
 ## **Learn**
 
-### **Sites**
+### **Sites** <a name="sites"></a>
 
-Vanilla
+Vanilla <a name="sitesVanilla"></a>
 
 * [WesBos Courses](https://courses.wesbos.com/), you need to sign Up to use. Contains a large variety of courses for JavaScript and CSS.
 
 * [JavaScript in Y minutes](https://learnxinyminutes.com/docs/javascript/)
 
-Frameworks
+Frameworks <a name="sitesFrameworks"></a>
 
 * [Angular in Y minutes](https://learnxinyminutes.com/docs/angularjs/)
 
-### **Books**
+### **Books** <a name="books"></a>
 
-Vanilla
+Vanilla <a name="booksVanilla"></a>
 
 * [JavaScript Notes for professionals](https://books.goalkicker.com/JavaScriptBook/)
 
-Frameworks
+Frameworks <a name="booksFrameworks"></a>
 
 * [NodeJS for professionals](https://books.goalkicker.com/JavaScriptBook/)
 
@@ -28,7 +38,7 @@ Frameworks
 
 ---
 
-## **Miscellaneous**
+## **Miscellaneous** <a name="misc"></a>
 
 * Regular Expressions <https://regex101.com/>
 
@@ -36,4 +46,4 @@ Frameworks
 
 ---
 
-## **Questions and Answers**
+## **Questions and Answers** <a name="qNa"></a>

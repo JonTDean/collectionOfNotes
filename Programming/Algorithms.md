@@ -1,6 +1,14 @@
 # **General Information on Algorithms**
 
-## **Programming Sites**
+Algorithms Contents
+
+1. [Practice Sites](#sites)
+2. [Competitive Programming](#compProgram)
+    1. [sites](#compSites)
+    2. [Books](#compBooks)
+3. [Questions and Answers](#qNa)
+
+## **Practice Sites** <a name="sites"></a>
 
 * [edaBit](https://edabit.com/)
 
@@ -12,15 +20,15 @@
 
 * [Code Submission Evaluation System](https://cses.fi/)
 
-## **Competitive Programming**
+## **Competitive Programming** <a name="compProgram"></a>
 
-### **Sites**
+### **Sites** <a name="compSites"></a>
 
 * [codeForces](https://codeforces.com/)
 
 * [atCoder](https://atcoder.jp/)
 
-### **Books**
+### **Books** <a name="compBooks"></a>
 
 * [Code Submission Evaluation System Handbook](https://cses.fi/book/book.pdf)
 
@@ -28,8 +36,7 @@
 
 ---
 
-## **Questions and Answers**
+## **Questions and Answers** <a name="qNa"></a>
 
 * What is Algorithmic Complexity?:
 <https://devopedia.org/algorithmic-complexity>
-

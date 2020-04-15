@@ -1,22 +1,32 @@
 # **CSS Resources**
 
+CSS Contents
+
+1. [Sites](#sites)
+2. [Books](#books)
+3. [Design](#design)
+    1. [Fonts](#fonts)
+    2. [icons](#icons)
+    3. [misc](#misc)
+4. [Questions and Answers](#qNa)
+
 ## **Learn**
 
-### **Sites**
+### **Sites** <a name="sites"></a>
 
-* <https://www.frontendmentor.io/>
+* [frontendmentor](https://www.frontendmentor.io/), great site to find Mentor to apprentice opportunities.
 
-* <https://courses.wesbos.com/> *Need to sign Up*
+* [WesBos Courses](https://courses.wesbos.com/), you need to sign Up to use. Contains a large variety of courses for JavaScript and CSS.
 
-### **Books**
+### **Books** <a name="books"></a>
 
 * [CSS for Professionals](https://books.goalkicker.com/CSSBook/)
 
 ---
 
-## **Design**
+## **Design** <a name="design"></a>
 
-### **Fonts**
+### **Fonts** <a name="fonts"></a>
 
 Free
 * [Font-Squirrel](https://www.fontsquirrel.com/)
@@ -26,13 +36,13 @@ Free
 Freemium
 * [Free and paid Fonts](https://fontawesome.com/)
 
-### **Icons**
+### **Icons** <a name="icons"></a>
 
 * [Official Bootstrap Icons](https://icons.getbootstrap.com/)
 
 * [Google Material Design System Icons](https://material.io/resources/icons/?style=baseline)
 
-### **Miscellaneous**
+### **Miscellaneous** <a name="misc"></a>
 
 * Button Design Tips <https://uxplanet.org/7-basic-rules-for-button-design-63dcdf5676b4>
 * CSS reset Sheets:
@@ -42,4 +52,4 @@ Freemium
 
 ---
 
-## **Questions and Answers**
+## **Questions and Answers** <a name="qNa"></a>

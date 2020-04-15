@@ -1,6 +1,18 @@
 # **Soft Skills Resources**
 
-## **Grit, Perseverance**
+Soft Skills Contents
+
+1. [Grit, Perseverance](#grit)
+2. [Current and Future Prospects](#prospects)
+3. [Thinking](#thinking)
+4. [Work and Personal Life](#life)
+5. [Speaking](#speaking)
+6. [Writing](#writing)
+7. [Leadership](#leadership)
+8. [Networking](#networking)
+9. [Interviewing](interviewing)
+
+## **Grit, Perseverance** <a name="grit"></a>
 
 * [Eric Thomas - Pain Is Temporary](https://www.youtube.com/watch?v=pej1XuIMmsQ)
 
@@ -8,13 +20,13 @@
 
 * [James Thomas - What is Grit?](https://jamesclear.com/grit)
 
-## Current and Future Prospects
+## Current and Future Prospects <a name="prospects"></a>
 
 * [Learn to Code In 2020](https://zerotomastery.io/blog/learn-to-code-in-2020-get-hired-and-have-fun-along-the-way/)
 
 * [Future Prospects](https://zerotomastery.io/blog/developers-edge-how-to-become-a-senior-developer/)
 
-## Thinking
+## Thinking <a name="thinking"></a>
 
 * [Google: Think Again I](https://learndigital.withgoogle.com/digitalgarage/course/understand-arguments)
 
@@ -28,7 +40,7 @@
 
 * [Google: Design Thinking for innovation](https://learndigital.withgoogle.com/digitalgarage/course/design-thinking-innovation)
 
-## Work and Personal Life
+## Work and Personal Life <a name="life"></a>
 
 * [Google: Digital Wellbeing](https://learndigital.withgoogle.com/digitalgarage/course/digital-wellbeing)
 
@@ -42,7 +54,7 @@
 
 * [Google: Initiating and planning Projects](https://learndigital.withgoogle.com/digitalgarage/course/initiating-planning-projects)
 
-## **Speaking**
+## **Speaking** <a name="speaking"></a>
 
 * [Google: Business Communication](https://learndigital.withgoogle.com/digitalgarage/course/business-communication)
 
@@ -58,11 +70,11 @@
 
 * [Google: Giving Helpful Feedback](https://learndigital.withgoogle.com/digitalgarage/course/giving-helpful-feedback)
 
-## Writing
+## Writing <a name="writing"></a>
 
 * [Google: Business Writing](https://learndigital.withgoogle.com/digitalgarage/course/business-writing)
 
-## Leadership Skills
+## Leadership Skills <a name="leadership"></a>
 
 * [Google: Inspiring Leadership through Emotional Intelligence](https://learndigital.withgoogle.com/digitalgarage/course/leadership-emotional-intelligence)
 
@@ -72,15 +84,13 @@
 
 * [Google: High Performance Collaboration](https://learndigital.withgoogle.com/digitalgarage/course/high-performance-collaboration)
 
-## **Networking**
+## **Networking** <a name="networking"></a>
 
 * [Google: Effective Networking](https://learndigital.withgoogle.com/digitalgarage/course/effective-networking)
 
 * [Google: Land your Next Job](https://learndigital.withgoogle.com/digitalgarage/course/prepare-for-new-job)
 
-*
-
-## **Interviewing**
+## **Interviewing** <a name="interviewing"></a>
 
 * [InterviewingIO](https://interviewing.io), Great Resource for preparing for interviews.
 

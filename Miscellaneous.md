@@ -1,16 +1,22 @@
-# Resources on a variety of things
+# **Resources on a variety of things**
 
 ## **Table of Contents**
 
-1. [Open Source Learning](#OSL)
+1. [Sites](#sites)
+    1. [Free Learning Areas](#fla)
+    2. [Learning Supplements](#ls)
+    3. [Free Stuff](#fs)
 
 2. [IDE's to Use](#IDE)
+    1. [Paid IDE's](#paidIDE)
+    2. [Temporarily Free IDE's](#tempFreeIDE)
+    3. [Paid IDE's](#paidIDE)
 
 ---
 
-### **Sites**
+### **Sites** <a name="sites"></a>
 
-Free Learning Areas
+Free Learning Areas <a name="fla"></a>
 
 * [The Odin Project](https://www.theodinproject.com/dashboard), Great resource for anything fullstack. The forums and Discord are also an amazing help if you have any questions about anything.
 
@@ -26,7 +32,7 @@ Free Learning Areas
 
 * [Fullstack Open](https://fullstackopen.com/en/about/), made by a group of Finnish programmers and very resourceful.
 
-Learning Supplements
+Learning Supplements <a name="ls"></a>
 
 * [Tower](https://www.git-tower.com/), - this site has a load of learning Cheat Sheets if you're into them.
 
@@ -38,7 +44,7 @@ Learning Supplements
 
 * [/r/learnprogramming](https://www.reddit.com/r/learnprogramming/), great place to find additional supplements to add to your learning experience.
 
-Free Stuff
+Free Stuff <a name="fs"></a>
 
 * [GitHub Students](https://education.github.com/pack), if you have a .edu email you can apply for this and get a bunch of stuff for free, around $1000 worth of subscriptions to various sites.
 
@@ -48,9 +54,9 @@ Free Stuff
 
 ---
 
-### IDE's <a name ="IDE"></a>
+### **IDE's** <a name ="IDE"></a>
 
-**Free**
+Free <a name="freeIDE"></a>
 
 * [Repl](https://repl.it/)
     * [Repl Documentation](https://docs.repl.it/misc/quick-start)
@@ -64,12 +70,12 @@ Free Stuff
 * [Visual Studio Code](https://code.visualstudio.com/)
     * [VSCode Documentation](https://code.visualstudio.com/docs)
 
-**Temporarily Free**
+Temporarily Free <a name="tempFreeIDE"></a>
 
 * [VSCode Online](https://online.visualstudio.com/environments)
     * [VSCode Online Documentation](https://docs.microsoft.com/en-us/visualstudio/online/overview/what-is-vsonline)
 
-**Paid (Free if you have a .edu E-mail)**:
+Paid (Free if you have a .edu E-mail) <a name="paidIDE"></a>
 
 * [JetBrains: RubyMine](https://www.jetbrains.com/ruby/), great for Ruby and Ruby-on-Rails.
     * [JetBrains: RubyMine Documentation](https://www.jetbrains.com/help/ruby/installation-guide.html)
