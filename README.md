@@ -16,7 +16,7 @@ Collection of everything I've studied and most of what I refer to on a daily bas
 
 ### Programming
 
-1. [Algorithms](./Programming/Algrothims.md)
+1. [Algorithms](./Programming/Algorithms.md)
 
 2. [JavaScript](./Programming/JavaScript.md)
 
