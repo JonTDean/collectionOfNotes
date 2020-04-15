@@ -12,6 +12,8 @@ Collection of everything I've studied and most of what I refer to on a daily bas
 
 3. [Markdown](./Computer_Science_Skills/Markdown.md)
 
+4. [Miscellaneous](./Miscellaneous.md)
+
 ### Programming
 
 1. [Algorithms](./Programming/Algrothims.md)
