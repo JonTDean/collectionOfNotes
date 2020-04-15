@@ -1,12 +1,18 @@
 # **Git Resources**
 
-## **Git Sites**
+Git Contents
+
+1. [Sites](#sites)
+2. [Books](#books)
+3. [Questions and Answers](#qNa)
+
+## **Sites** <a name="sites"></a>
 
 * [Git Documentation](https://git-scm.com/doc)
 
 * [Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 
-## **Git Books**
+## **Books** <a name="books"></a>
 
 * [Git Notes for Professionals](https://books.goalkicker.com/GitBook/)
 
@@ -16,7 +22,7 @@
 
 ---
 
-## **Questions and Answers**
+## **Questions and Answers** <a name="qNa"></a>
 
 * How to add my GitHub account to my local git settings? :
  <https://kbroman.org/github_tutorial/pages/first_time.html>
